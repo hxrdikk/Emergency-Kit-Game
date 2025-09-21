@@ -1,0 +1,3 @@
+node_modules/ # add more as needed
+node_modules
+.next/
